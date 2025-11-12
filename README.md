@@ -1,6 +1,6 @@
 # Hi, I’m Bernz 👋
 
-Developer magang di dunia SA-MP. Juga lagi belajar JS, LUA  dan hal lainnya yang bikin saya tertarik untuk mencobanya.
+Developer amatir di dunia SA-MP. Juga lagi belajar JS, LUA  dan hal lainnya yang bikin saya tertarik untuk mencobanya.
 
 ---
 
@@ -28,5 +28,5 @@ Developer magang di dunia SA-MP. Juga lagi belajar JS, LUA  dan hal lainnya yang
 
 ## 🧰 Tech & Tools
 
-- SA-MP (Pawn), JavaScript, HTML, CSS, LUA
+- SA-MP (Pawn), JavaScript, HTML, CSS, Lua
 - 🔧 VSC, Microsoft Edge, WinSCP, PuTTY, Discord.
