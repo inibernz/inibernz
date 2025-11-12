@@ -15,14 +15,6 @@ Developer magang di dunia SA-MP. Juga lagi belajar JS, LUA  dan hal lainnya yang
 </p>
 
 <p align="center">
-  <!-- Top languages -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=inibernz&layout=compact&theme=radical&hide_border=true"
-    alt="Top Languages - inibernz"
-  />
-</p>
-
-<p align="center">
   <!-- Streak stats -->
   <img
     src="https://streak-stats.demolab.com?user=inibernz&theme=radical&hide_border=true"
