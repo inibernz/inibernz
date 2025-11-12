@@ -30,13 +30,6 @@ Developer magang di dunia SA-MP. Juga lagi belajar JS, LUA  dan hal lainnya yang
   />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=inibernz&theme=onedark&no-frame=true&no-bg=true&margin-w=8"
-    alt="GitHub Trophies - inibernz"
-/>
 </p>
 
 ---
