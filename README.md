@@ -15,12 +15,15 @@ Developer amatir di dunia SA-MP. Juga lagi belajar JS, Lua  dan hal lainnya yang
 </p>
 
 <p align="center">
-  <!-- Streak stats -->
+
+  <!-- Streak Stats -->
   <img
-    src="https://streak-stats.demolab.com?user=inibernz&theme=radical&hide_border=true"
-    alt="GitHub Streak - inibernz"
+    src="https://github-readme-streak-stats.herokuapp.com?user=inibernz&theme=transparent"
+    alt="GitHub Streak"
   />
+
 </p>
+
 
 </p>
 
@@ -29,4 +32,4 @@ Developer amatir di dunia SA-MP. Juga lagi belajar JS, Lua  dan hal lainnya yang
 ## 🧰 Tech & Tools
 
 - SA-MP (Pawn), JavaScript, HTML, CSS, Lua
-- 🔧 VSC, Microsoft Edge, WinSCP, PuTTY, Discord.
+- VSC, Microsoft Edge, WinSCP, PuTTY, Discord.
