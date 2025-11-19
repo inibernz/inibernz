@@ -15,7 +15,7 @@ Developer amatir di dunia SA-MP. Juga lagi belajar JS, Lua  dan hal lainnya yang
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com/?user=inibernz&theme=radical&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=inibernz"
     alt="GitHub Streak - inibernz"
   />
 </p>
