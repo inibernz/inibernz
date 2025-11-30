@@ -1,10 +1,10 @@
-# Hi, I’m Bernz 👋
+# Hi Internet, I’m Bernz.
 
-Developer amatir di dunia SA-MP. Juga lagi belajar JS, Lua  dan hal lainnya yang bikin saya tertarik untuk mencobanya.
+Developer amatir di dunia SA-MP. Juga lagi belajar JS, Lua dan hal lainnya yang bikin saya tertarik untuk mencobanya.
 
 ---
 
-## 🔥 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img 
@@ -14,8 +14,8 @@ Developer amatir di dunia SA-MP. Juga lagi belajar JS, Lua  dan hal lainnya yang
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=inibernz"
+  <img
+    src="https://streak-stats.demolab.com?user=inibernz&theme=radical&hide_border=true"
     alt="GitHub Streak - inibernz"
   />
 </p>
@@ -24,7 +24,7 @@ Developer amatir di dunia SA-MP. Juga lagi belajar JS, Lua  dan hal lainnya yang
 
 ---
 
-## 🧰 Tech & Tools
+## Tech & Tools
 
 - SA-MP (Pawn), JavaScript, HTML, CSS, Lua
-- 🔧 VSC, Microsoft Edge, WinSCP, PuTTY, Discord.
+- VSC, Microsoft Edge, WinSCP, PuTTY, Discord.
