@@ -1,30 +1,25 @@
-# Hi Internet, I’m Bernz.
+# Hi, I’m Bernz.
 
-Developer amatir di dunia SA-MP. Juga lagi belajar JS, Lua dan hal lainnya yang bikin saya tertarik untuk mencobanya.
+Saya mengembangkan Grand Country Roleplay dari sisi server open.mp, client Android, web, dan bot Discord. Pekerjaan saya mencakup sistem gameplay, stabilitas client, serta layanan yang digunakan pemain dan komunitas.
 
----
+![Animasi ringkasan area kerja Bernz: server open.mp, client Android, web dan bot Discord](assets/grand-country-work.gif)
 
-## GitHub Stats
+## Yang saya kerjakan
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=inibernz&show_icons=true&theme=radical&hide_border=true" 
-    alt="GitHub Stats - inibernz"
-  />
-</p>
+- **Game server:** fitur roleplay dan pemeliharaan gamemode dengan Pawn, open.mp, dan MySQL.
+- **Android client:** kontrol, antarmuka, serta investigasi crash dan masalah koneksi dengan Java dan C++.
+- **Web & community:** API dan bot komunitas dengan Node.js, Express, dan Discord.js.
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=inibernz&theme=radical&hide_border=true"
-    alt="GitHub Streak - inibernz"
-  />
-</p>
+## Tech stack
 
-</p>
+**Languages:** Pawn, JavaScript, Java, C++, SQL, HTML, CSS  
+**Platforms & tools:** open.mp, Android SDK/NDK, Node.js, Express, MySQL, Discord.js, Gradle, CMake
 
----
+Saya juga sedang mengeksplorasi Lua dan FiveM.
 
-## Tech & Tools
+## Kontribusi GitHub
 
-- SA-MP (Pawn), JavaScript, HTML, CSS, Lua
-- VSC, Microsoft Edge, WinSCP, PuTTY, Discord.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=inibernz&amp;theme=dark&amp;hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=inibernz&amp;theme=default&amp;hide_border=true" alt="Ringkasan kontribusi GitHub Bernz" />
+</picture>
