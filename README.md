@@ -17,6 +17,9 @@ Saya mengembangkan Grand Country Roleplay dari sisi server open.mp, client Andro
 
 Saya juga sedang mengeksplorasi Lua dan FiveM.
 
-## Aktivitas GitHub publik
+## Kontribusi GitHub
 
-![Statistik aktivitas publik GitHub Bernz](https://github-readme-stats.vercel.app/api?username=inibernz&show_icons=true&theme=transparent&hide_border=true&hide_rank=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=inibernz&amp;theme=dark&amp;hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=inibernz&amp;theme=default&amp;hide_border=true" alt="Ringkasan kontribusi GitHub Bernz" />
+</picture>
