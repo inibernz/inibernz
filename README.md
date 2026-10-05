@@ -2,8 +2,6 @@
 
 Saya mengembangkan Grand Country Roleplay dari sisi server open.mp, client Android, web, dan bot Discord. Pekerjaan saya mencakup sistem gameplay, stabilitas client, serta layanan yang digunakan pemain dan komunitas.
 
-![Animasi ringkasan area kerja Bernz: server open.mp, client Android, web dan bot Discord](assets/grand-country-work.gif)
-
 ## Work
 
 - **Game server:** fitur roleplay dan development gamemode Pawn, open.mp, dan MySQL.
